@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+html,
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+canvas {
+    box-shadow: 3px 3px 30px 10px black;
+}
+input {
+    margin-top: 50px;
+}

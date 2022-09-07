@@ -7,6 +7,5 @@
 - https://happycoding.io/examples/p5js/
 
 ## Calligraphy
-Äõ«F¶°§Ç
 
 ![gif](calligraphy/calligraphy.gif)

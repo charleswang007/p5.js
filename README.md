@@ -7,6 +7,6 @@
 - https://happycoding.io/examples/p5js/
 
 ## Calligraphy
-會動的蘭亭集序
+蘭亭集序
 
-![gif](images/calligraphy/calligraphy.gif)
+![gif](calligraphy/calligraphy.gif)
